@@ -3,10 +3,10 @@
 
 ### A dedicated backend developer with a strong focus on Java, also exploring frontend technologies on my journey to becoming a full stack developer.
 
-![Profile views](https://gpvc.arturio.dev/mufinan)
+
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mustafa-furkan-İnan) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mufinan) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mufinan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mustafa-furkan-inan) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mufinan) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mufinan@gmail.com)
 
 ### About Me:
 
@@ -26,4 +26,4 @@ I graduated from Uludağ University with a degree in Electrical and Electronics 
 - **Languages:** Turkish (Native), English (Advanced)
 
 
-Feel free to reach out to me for collaboration or just to say hi! You can connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-furkan-İnan) or drop me an [email](mailto:mufinan@gmail.com).
+Feel free to reach out to me for collaboration or just to say hi! You can connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-furkan-inan) or drop me an [email](mailto:mufinan@gmail.com).
